@@ -1,5 +1,5 @@
 {
-  "name": "puppet-epel",
+  "name": "stahnma-epel",
   "version": "3.0.1-rc0",
   "author": "Vox Pupuli",
   "summary": "Setup the EPEL package repo",
